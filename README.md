@@ -109,12 +109,12 @@ The dataset contains:
 
 ### Project Structure
 
-OIBSIP/
-│
-├── BurraSandeep_Task1.ipynb
-├── README.md
-├── train.csv
-└── Screenshots/
+OIBSIP
+
+ BurraSandeep_Task1.ipynb
+ README.md
+ train.csv
+ Screenshots
 
 ### Author
 
