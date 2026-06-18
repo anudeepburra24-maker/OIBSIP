@@ -111,10 +111,13 @@ The dataset contains:
 
 OIBSIP
 
- BurraSandeep_Task1.ipynb
- README.md
- train.csv
- Screenshots
+* BurraSandeep_Task1.ipynb
+
+ *README.md
+ 
+ *train.csv
+ 
+ *Screenshots
 
 ### Author
 
