@@ -141,9 +141,7 @@ Data Analytics Intern
 
 Oasis Infobyte Internship
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+LinkedIn:www.linkedin.com/in/anudeep-burra-6705a838b
 
 ---
 
