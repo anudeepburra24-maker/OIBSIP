@@ -152,7 +152,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## Author
 
-**Burra Sandeep**
+**Burra Anudeep**
 
 Data Analytics Intern
 
