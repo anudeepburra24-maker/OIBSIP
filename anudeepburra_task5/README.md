@@ -131,7 +131,7 @@ Among the three models, the **Random Forest Classifier** achieved the highest pr
 
 Task5_Wine_Quality_Prediction/
 
-* BurraSandeep_Task5.ipynb
+* Burraanudeep_Task5.ipynb
 * WineQT.csv
 * README.md
 * requirements.txt
