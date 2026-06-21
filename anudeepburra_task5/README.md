@@ -37,6 +37,7 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 🔄 Workflow
 Data Loading & Inspection
 Exploratory Data Analysis (EDA)
@@ -45,19 +46,21 @@ Feature Selection & Correlation Analysis
 Model Training
 Model Evaluation
 Performance Comparison
+
 📈 Model Evaluation Metrics
 Accuracy Score
 Precision
 Recall
 F1-Score
 Confusion Matrix
+
 📊 Results
 
 Among the tested models, performance was compared based on classification metrics to identify the most effective algorithm for wine quality prediction.
 
 🚀 How to Run the Project
 # Clone the repository
-git clone https://github.com/your-username/wine-quality-prediction.git
+git clone  https://github.com/anudeepburra24-maker/OIBSIP
 
 # Navigate to project folder
 cd wine-quality-prediction
@@ -67,6 +70,8 @@ pip install -r requirements.txt
 
 # Run the notebook or script
 python main.py
+
+
 📁 Project Structure
 wine-quality-prediction/
 │
@@ -78,16 +83,22 @@ wine-quality-prediction/
 │   └── model_training.py
 ├── requirements.txt
 └── README.md
+
+
 💡 Key Learnings
 Understanding chemical properties and their impact on wine quality
 Implementing and comparing multiple classification algorithms
 Improving model performance through preprocessing and feature analysis
 Visualizing data insights using Seaborn and Matplotlib
+
+
 📌 Future Improvements
 Hyperparameter tuning for better accuracy
 Deployment using Flask or Streamlit
 Adding deep learning models for comparison
 Real-time wine quality prediction API
+
+
 👨‍💻 Author
 
 Burra Anudeep
